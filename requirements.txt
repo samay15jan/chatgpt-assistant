@@ -1,0 +1,6 @@
+speechrecognition
+openai
+pygame
+pyaudio	
+pocketsphinx
+gtts
