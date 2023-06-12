@@ -6,7 +6,7 @@ from gtts import gTTS
 from io import BytesIO
 import pygame
 
-openai.api_key = "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"
+openai.api_key = ""
 
 text = input()
 
